@@ -1,0 +1,21 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google: 
+           client-id: 254817594130-5d9f1pmichclauum2ce7insktcvarfok.apps.googleusercontent.com
+           client-secret: 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
+           
+       	  linkedin: 
+       	    client-id: 
+       	    client-secret: 
+       	    client-authentication-method: 
+       	    authorization-grant-type: 
+       	    redirect-uri: 
+       	    scope:
+       	    client-name: 
+            
+
+            
+            
