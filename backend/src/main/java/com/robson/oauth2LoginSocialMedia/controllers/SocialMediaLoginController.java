@@ -12,4 +12,9 @@ public class SocialMediaLoginController {
 	public String getHomePage() {
 		return "index";
 	}
+	
+	@GetMapping("/login")
+	public String getLoginPage() {
+		return "login";
+	}
 }
