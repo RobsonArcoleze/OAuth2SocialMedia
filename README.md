@@ -1,4 +1,5 @@
 # OAuth2SocialMedia
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE)
 
 Aplicação simples para implementar alguns conceitos de segurança utilizando Spring Security e OAuth2.
 
@@ -29,3 +30,27 @@ Para executar este aplicativo:
   - execute o projeto no seu IDE
   - acesse http://localhost:8080 no seu navegador
   - escolha seu servidor de autenticação
+ 
+ 
+ 
+![img](https://github.com/RobsonArcoleze/OAuth2SocialMedia/blob/main/img/socialLogin.png)
+
+## Back end
+Pré-requisitos: Java 17
+
+```bash
+# clonar repositório
+git@github.com:RobsonArcoleze/OAuth2SocialMedia.git
+
+# entrar na pasta do projeto back end
+cd backend
+
+# executar o projeto
+./mvnw spring-boot:run
+```
+  
+# Autor
+
+Robson de Oliveira Arcoleze
+
+https://www.linkedin.com/in/robsonarcoleze/  
